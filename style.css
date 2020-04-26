@@ -1,0 +1,144 @@
+.container {
+    color: white;
+    font-family: 'Sorts Mill Goudy', serif;
+}
+
+body {
+    background-image: url("assets/lance-anderson-GpEuMWkk9U4-unsplash.jpg");
+    background-size: cover;
+  }
+
+p {
+    text-indent: 20px;
+    text-shadow: 
+        -1px -1px 0px rgb(100, 100, 100),
+         0px -1px 0px rgb(100, 100, 100),
+         1px -1px 0px rgb(100, 100, 100),
+        -1px  0px 0px rgb(100, 100, 100),
+         1px  0px 0px rgb(100, 100, 100),
+        -1px  1px 0px rgb(100, 100, 100),
+         0px  1px 0px rgb(100, 100, 100),
+         1px  1px 0px rgb(100, 100, 100);
+
+}
+
+
+.navbar {
+    background-color: #306455 !important;
+    margin-bottom: 20px;
+    font-family: 'Sorts Mill Goudy', serif;
+}
+
+#profile {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    box-shadow: 0px -10px 30px rgb(208, 225, 225, .3);
+    border-radius: 10px;
+}
+
+.jumbotron {
+    color:  white;
+    background-color: rgba(208, 225, 225, 0.2) !important;
+}
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #306455 !important;
+    border-color: #306455 !important;
+
+}
+
+.btn-primary:hover {
+    color: silver !important;
+
+}
+
+.hero-image1 {
+    background-image: url("assets/digital-marketing-meeting.jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.hero-image2 {
+    background-image: url("https://www.zelda.com/breath-of-the-wild/assets/img/media/wallpaper-1-thumb.jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.hero-image3 {
+    background-image: url("https://images.unsplash.com/photo-1570937943292-a574bd5bc722?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.hero-image4 {
+    background-image: url("https://images.unsplash.com/photo-1558655146-364adaf1fcc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.hero-image5 {
+    background-image: url("https://images.unsplash.com/photo-1563941402830-3bae42b67b38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.hero-image6 {
+    background-image: url("https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+
+.imgtext a {
+    text-align: center;
+    background-color: #306455;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-top: 3px;
+    height: 25px;
+    color: white;
+    
+}   
+
+.imgtext a:hover {
+    color: silver;
+    text-decoration: none;
+}
+
+.page-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color:  white;
+    background-color: rgba(48, 100, 85, .6) !important;
+}
