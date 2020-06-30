@@ -20,7 +20,7 @@
 * Found that many bootstrap elements initially resist change to their css styling but it can be forced by adding "!important" to the styling.
 
 ### Living Document
-This Bio will continue to be updated throughout the beginning of my career with new styling and portfolio content
+This Bio will continue to be updated throughout my career with new styling and portfolio content
 
 ### To View This
 You can visit https://86hemphill.github.io/hw-week2/
