@@ -57,37 +57,44 @@ p {
 
 }
 
+.proj:hover {
+    cursor: pointer;
+}
+
 .hero-image1 {
-    background-image: url("assets/retro-feed-screenshot.png");
-    height: 200px;
+    background-image: url("assets/journeyLogin.png");
+    height: 450px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
 }
 
 .hero-image2 {
     background-image: url("assets/QuizAppScreenshot.png");
-    height: 200px;
+    height: 450px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
 }
 
 .hero-image3 {
-    background-image: url("assets/03-javascript-homework-demo.png");
-    height: 200px;
+    background-image: url("assets/retro-feed-screenshot.png");
+    height: 450px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
 }
 
-.hero-image4 {
+/* .hero-image4 {
     background-image: url("assets/Screen Shot 2020-04-26 at 12.01.10 AM.png");
     height: 200px;
     background-position: center;
@@ -115,10 +122,14 @@ p {
     background-size: cover;
     position: relative;
     margin-bottom: 10px;
+} */
+
+.proj1:hover {
+    color: silver !important;
+    text-decoration: none;
 }
 
-
-.imgtext a {
+.imgtext  {
     text-align: center;
     background-color: #306455;
     position: absolute;
@@ -126,15 +137,16 @@ p {
     left: 0;
     right: 0;
     padding-top: 3px;
-    height: 25px;
+    height: 30px;
     color: white;
-    
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }   
 
-.imgtext a:hover {
+/* .imgtext a:hover {
     color: silver;
     text-decoration: none;
-}
+} */
 
 .page-footer {
     position: fixed;
