@@ -57,7 +57,9 @@ p {
 
 }
 
-.proj:hover {
+.proj1:hover,
+.proj2:hover,
+.proj3:hover {
     cursor: pointer;
 }
 
@@ -69,7 +71,7 @@ p {
     background-size: cover;
     position: relative;
     margin-bottom: 20px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .hero-image2 {
@@ -79,7 +81,7 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    border-radius: 5px;
+    border-radius: 10px;
     margin-bottom: 20px;
 }
 
@@ -90,7 +92,7 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    border-radius: 5px;
+    border-radius: 10px;
     margin-bottom: 20px;
 }
 
