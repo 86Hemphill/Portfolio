@@ -23,6 +23,14 @@ p {
 
 }
 
+h4 a {
+    color: white;
+}
+
+h4 a:hover{
+    color: silver;
+    text-decoration: none;
+}
 
 .navbar {
     background-color: #306455 !important;
