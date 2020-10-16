@@ -23,11 +23,13 @@ p {
 
 }
 
-h4 a {
+h4 a, 
+i {
     color: white;
 }
 
-h4 a:hover{
+h4 a:hover, 
+i:hover {
     color: silver;
     text-decoration: none;
 }
@@ -104,36 +106,6 @@ h4 a:hover{
     margin-bottom: 20px;
 }
 
-/* .hero-image4 {
-    background-image: url("assets/Screen Shot 2020-04-26 at 12.01.10 AM.png");
-    height: 200px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    margin-bottom: 10px;
-}
-
-.hero-image5 {
-    background-image: url("assets/Screen Shot 2020-04-12 at 12.54.21 PM.png");
-    height: 200px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    margin-bottom: 10px;
-}
-
-.hero-image6 {
-    background-image: url("assets/Screen Shot 2020-04-26 at 12.07.23 AM.png");
-    height: 200px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    margin-bottom: 10px;
-} */
-
 .proj1:hover {
     color: silver !important;
     text-decoration: none;
@@ -152,11 +124,6 @@ h4 a:hover{
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
 }   
-
-/* .imgtext a:hover {
-    color: silver;
-    text-decoration: none;
-} */
 
 .page-footer {
     position: fixed;
