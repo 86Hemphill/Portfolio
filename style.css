@@ -39,6 +39,11 @@ i:hover {
     background-color: rgba(52, 52, 52, .95) !important;
     margin-bottom: 20px;
     font-family: 'Sorts Mill Goudy', serif;
+    font-size: 20px;
+}
+
+.navbar i {
+    font-size: 30px;
 }
 
 #profile {
