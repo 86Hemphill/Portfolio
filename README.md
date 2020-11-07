@@ -1,5 +1,3 @@
-# Unit 02 CSS and Bootstrap Homework
-
 ## Responsive Portfolio
 
 <img src="assets/projectscreenshot.png" alt=projectscreenshot></img>
@@ -23,7 +21,7 @@
 This Bio will continue to be updated throughout my career with new styling and portfolio content
 
 ### To View This
-You can visit https://86hemphill.github.io/hw-week2/
+You can visit https://86hemphill.github.io/Portfolio/
 
 ### Licensing
 The code in this project is licensed under MIT license.
