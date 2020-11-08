@@ -10,6 +10,13 @@ body {
     backdrop-filter: blur(5px);
   }
 
+/* Hide scrollbar */
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+    display: none !important;
+  }
+
 p {
     text-indent: 20px;
     text-shadow: 
